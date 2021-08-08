@@ -1,0 +1,36 @@
+h1{
+    font-style: italic;
+    font-style: bold;
+    text-align: center;
+    color: black;
+}
+
+.my-container{
+    text-align:center;
+    text-align:justify;
+}
+
+.block{
+    height: 150px;   
+    width: 150px; 
+    background-color: yellow;
+    text-align:center;    
+    align-content:justify;
+}
+
+.row-1{
+    height: 150px;
+    padding: 5px;
+    background-color: white;
+    text-align:center;
+    text-align:justify;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.row-2 {
+    height: 150px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
